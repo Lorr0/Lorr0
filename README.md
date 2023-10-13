@@ -1,4 +1,4 @@
-#French
+# French
 - 👋 Salut, je suis @Lorr0!
 - 👀 Je m'intéresse à devenir Manager en infrastructures et cybersécurité des SI
 - 🌱 Je suis en train d'apprendre a devenir Administrateur Système et Réseau
